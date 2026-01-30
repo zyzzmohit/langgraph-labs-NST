@@ -7,9 +7,7 @@ from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage
 
 
-# ============================================
-# Step 1: Define the State
-# ============================================
+
 class GraphState(TypedDict):
     """State that flows through the graph."""
     question: str
