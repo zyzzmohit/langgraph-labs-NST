@@ -1,0 +1,1 @@
+Write a sentence that contains exactly 10 words, and the fourth word in the sentence must be 'blue.
