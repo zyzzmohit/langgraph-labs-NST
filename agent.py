@@ -159,9 +159,9 @@ if __name__ == "__main__":
         print("Error: GROQ_API_KEY environment variable not set.")
         sys.exit(1)
 
-    print("\n" + "=" * 50)
+   
     print("LangGraph Feedback Loop Agent Demo")
-    print("=" * 50)
+    
 
     app = build_graph()
     question = input("\nEnter your question: ")
